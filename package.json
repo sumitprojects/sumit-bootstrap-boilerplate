@@ -1,0 +1,46 @@
+{
+    "name": "sumit-bootstrap-boilerplate",
+    "version": "1.0.13",
+    "description": "Bootstrap, Moment, fontawesome included project with minified and uglified",
+    "author": "sumit more",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "^4.3.1",
+        "datatables.net-autofill-bs4": "^2.3.3",
+        "datatables.net-bs4": "^1.10.19",
+        "datatables.net-buttons-bs4": "^1.5.6",
+        "datatables.net-colreorder-bs4": "^1.5.1",
+        "datatables.net-fixedcolumns-bs4": "^3.2.6",
+        "datatables.net-fixedheader-bs4": "^3.1.5",
+        "datatables.net-keytable-bs4": "^2.5.0",
+        "datatables.net-responsive-bs4": "^2.2.3",
+        "datatables.net-rowgroup-bs4": "^1.1.0",
+        "datatables.net-rowreorder-bs4": "^1.2.5",
+        "datatables.net-scroller-bs4": "^2.0.0",
+        "datatables.net-select-bs4": "^1.3.0",
+        "fontawesome": "^5.6.3",
+        "jquery": "^3.4.1",
+        "jszip": "^3.2.2",
+        "moment": "^2.24.0",
+        "pdfmake": "^0.1.58",
+        "popper": "^1.0.1"
+    },
+    "devDependencies": {
+        "grunt": "^1.0.4",
+        "grunt-contrib-concat": "^1.0.1",
+        "grunt-contrib-cssmin": "^3.0.0",
+        "grunt-contrib-uglify": "^4.0.1",
+        "grunt-contrib-watch": "^1.1.0"
+    },
+    "peerDependencies": {
+        "popper.js": "^1.15.0"
+    },
+    "keywords": [
+        "bootstrap",
+        "jquery",
+        "boilerplate",
+        "datatables",
+        "momentjs",
+        "bootstrap-boilerplate"
+    ]
+}
