@@ -4,6 +4,7 @@
     "description": "Bootstrap, Moment, fontawesome included project with minified and uglified",
     "author": "sumit more",
     "license": "MIT",
+    "repository": "https://github.com/sumitprojects/sumit-bootstrap-boilerplate.git",
     "dependencies": {
         "bootstrap": "^4.3.1",
         "datatables.net-autofill-bs4": "^2.3.3",
