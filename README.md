@@ -1,9 +1,3 @@
----
-description: >-
-  Bootstrap Boilerplate is the boostrap ready distribution with dependencies of
-  JQuery,Datatables,MomentJS.
----
-
 # README
 
 ## Welcome to Bootstrap Boilerplate!
