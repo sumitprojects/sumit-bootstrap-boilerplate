@@ -1,4 +1,4 @@
 # Table of contents
 
-* [README](README.md)
+* [Welcome to Bootstrap Boilerplate!](README.md)
 
