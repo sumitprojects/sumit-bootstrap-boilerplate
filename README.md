@@ -1,67 +1,69 @@
-# Welcome to Bootstrap Boilerplate!
+---
+description: >-
+  Bootstrap Boilerplate is the boostrap ready distribution with dependencies of
+  JQuery,Datatables,MomentJS.
+---
 
- **Bootstrap Boilerplate** is the boostrap ready distribution with dependency of **JQuery**,**Datatables**,**MomentJS**.
+# README
 
-# Files
+## Welcome to Bootstrap Boilerplate!
 
-## CSS Distribution Folder
+**Bootstrap Boilerplate** is the boostrap ready distribution with dependencies of **JQuery**,**Datatables**,**MomentJS**.
 
-CSS file is located on ***dist/css*** folder
+## Files
 
-    dist/css/theme.min.css
+### CSS Distribution Folder
 
-## JS Distribution Folder
+CSS file is located on _**dist/css**_ folder
 
-JS files are located on ***dist/js*** folder
+```text
+dist/css/theme.min.css
+```
 
-    dist/js/app.min.js
-    dist/js/app2.min.js
-    dist/js/app3.min.js
+### JS Distribution Folder
 
-# Installation
+JS files are located on _**dist/js**_ folder
 
-## CSS Installation
-    <link  rel="stylesheet" href="dist/css/theme.min.css">
+```text
+dist/js/app.min.js
+dist/js/app2.min.js
+dist/js/app3.min.js
+```
 
-## JS Installation
-    <script  src="dist/js/app.min.js"></script>
-    <script  src="dist/js/app2.min.js"></script>
-    <script  src="dist/js/app3.min.js"></script>
-> OR
-## JSDelivr CDN
-### CSS CDN
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sumit-bootstrap-boilerplate@1.0.5/dist/theme.min.css"/>
-### CSS CDN
-    <script src="https://cdn.jsdelivr.net/npm/sumit-bootstrap-boilerplate@1.0.5/dist/app.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/sumit-bootstrap-boilerplate@1.0.5/dist/app2.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/sumit-bootstrap-boilerplate@1.0.5/dist/app3.min.js"></script>
+## Installation
 
-### Demo File
+### CSS Installation
 
-open ***index.html*** in browser.
+### JS Installation
 
-## Comming Soon
->Bootstrap theme switcher feature in which you can use the below free bootstrap theme:
+ &gt; OR \#\# JSDelivr CDN \#\#\# CSS CDN \#\#\# CSS CDN
 
- - Journal
- - Litera
- - Cosmo
- - Cerulean
- - Flatly
- - Materia
- - Cyborg
- - Lumen
- - Spacelab
- - Minty
- - Sandstone
- - Slate
- - Simplex
- - Pulse
- - Superhero
- - Sketchy
- - Solar
- - United
+#### Demo File
 
->Also, you can include your own boostrap theme and include in my boilerplate.
->Customization bootstrap is available on [Boostrap Build](https://bootstrap.build/themes) .
->I am going to include third party plugins: [SweetAlert](https://sweetalert2.github.io/) ,[IziToast](http://izitoast.marcelodolza.com/), [JqueryValidation](https://jqueryvalidation.org) and many more.
+open _**index.html**_ in browser.
+
+### Comming Soon
+
+> Bootstrap theme switcher feature in which you can use the below free bootstrap theme:
+
+* Journal
+* Litera
+* Cosmo
+* Cerulean
+* Flatly
+* Materia
+* Cyborg
+* Lumen
+* Spacelab
+* Minty
+* Sandstone
+* Slate
+* Simplex
+* Pulse
+* Superhero
+* Sketchy
+* Solar
+* United
+
+> Also, you can include your own boostrap theme and include in my boilerplate. Customization bootstrap is available on [Boostrap Build](https://bootstrap.build/themes) . I am going to include third party plugins: [SweetAlert](https://sweetalert2.github.io/) ,[IziToast](http://izitoast.marcelodolza.com/), [JqueryValidation](https://jqueryvalidation.org) and many more.
+
