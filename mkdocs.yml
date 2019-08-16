@@ -1,4 +1,4 @@
-site_name: MkLorum
+site_name: Bootstrap Boilterplate
 nav:
     - Home: README.md
 theme: readthedocs
