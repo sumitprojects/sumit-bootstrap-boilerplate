@@ -1,4 +1,4 @@
 site_name: MkLorum
 nav:
-    - Home: index.md
+    - Home: README.md
 theme: readthedocs

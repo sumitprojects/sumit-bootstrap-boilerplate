@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="dist/theme.min.css">
+    <link rel="stylesheet" href="dist/theme.min.css" />
+    <link rel="stylesheet" href="bootstrap.min.css" />
 </head>
 
 <body>
@@ -502,9 +503,18 @@
     $(document).ready(function() {
         $('#example').DataTable({
             dom: 'lBfrtip',
-            buttons: [
-                'copy', 'csv', 'excel', 'pdf', 'print'
-            ]
+            buttons: [{
+                    extend: 'print',
+                    exportOptions: {
+                        columns: ':visible'
+                    }
+                },
+                'colvis'
+            ],
+            columnDefs: [{
+                targets: -1,
+                visible: false
+            }]
         });
     });
 </script>
