@@ -1,4 +1,4 @@
 site_name: Bootstrap Boilterplate
 nav:
-    - Home: README.md
+    - Home: index.md
 theme: readthedocs
