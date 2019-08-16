@@ -31,7 +31,9 @@ dist/js/app3.min.js
 >OR 
 ## JSDelivr CDN 
 ### CSS CDN 
-```<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sumit-bootstrap-boilerplate@1.0.5/dist/theme.min.css"/>```
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sumit-bootstrap-boilerplate@1.0.5/dist/theme.min.css">
+```
 ### JS CDN
 ```
 <script src="https://cdn.jsdelivr.net/npm/sumit-bootstrap-boilerplate@1.0.5/dist/app.min.js"></script>
