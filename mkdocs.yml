@@ -1,5 +1,0 @@
-site_name: Bootstrap Boilterplate
-site_url: https://sumit-bootstrap-boilerplate.readthedocs.io/
-nav:
-    - Home: index.md
-theme: readthedocs
