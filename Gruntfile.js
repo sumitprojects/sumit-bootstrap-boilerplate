@@ -12,7 +12,7 @@ module.exports = function(grunt) {
                     'node_modules/fontawesome/js/all.min.js',
                     'node_modules/datatables.net/js/*min.js',
                     'node_modules/datatables.net-bs4/js/*min.js',
-                    'node_modules/datatables.net-buttons/js/*.buttons.min.js',
+                    'node_modules/datatables.net-buttons/js/*.buttons.min.js'
                 ],
                 dest: 'dist/app.min.js',
             },
@@ -59,6 +59,10 @@ module.exports = function(grunt) {
                 src: ['dist/app2.min.js'],
                 dest: 'dist/app2.min.js',
             },
+            build2: {
+                src: ['theme-switcher.js'],
+                dest: 'dist/theme-switcher.min.js'
+            }
         },
         cssmin: {
             options: {

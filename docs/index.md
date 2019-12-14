@@ -77,7 +77,7 @@ dist/js/app3.min.js
 ## Demo File
 open _**index.html**_ in browser.
 
-# Comming Soon
+# Theme Switcher Functionality
 > Bootstrap theme switcher feature in which you can use the below free bootstrap theme:
 
 * Journal
@@ -98,4 +98,16 @@ open _**index.html**_ in browser.
 * Sketchy
 * Solar
 * United
+
+```
+<script src="https://cdn.jsdelivr.net/npm/sumit-bootstrap-boilerplate@1.0.5/dist/theme-switcher.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        themeSwitcher.start();
+    });
+</script>
+```
+
+
+# comming soon
 > Also, you can include your own boostrap theme and include in my boilerplate. Customization bootstrap is available on [Boostrap Build](https://bootstrap.build/themes) . I am going to include third party plugins: [SweetAlert](https://sweetalert2.github.io/) ,[IziToast](http://izitoast.marcelodolza.com/), [JqueryValidation](https://jqueryvalidation.org) and many more.
