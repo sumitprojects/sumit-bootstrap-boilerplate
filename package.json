@@ -4,6 +4,9 @@
     "description": "Bootstrap, Moment, fontawesome included project with minified and uglified",
     "author": "sumit more",
     "license": "MIT",
+     "scripts": {
+        "start": "node index.html"
+    },
     "repository": "https://github.com/sumitprojects/sumit-bootstrap-boilerplate.git",
     "dependencies": {
         "bootstrap": "^4.3.1",
