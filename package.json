@@ -5,7 +5,7 @@
     "author": "sumit more",
     "license": "MIT",
      "scripts": {
-        "start": "node index.html"
+        "start": "node main.js"
     },
     "repository": "https://github.com/sumitprojects/sumit-bootstrap-boilerplate.git",
     "dependencies": {
