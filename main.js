@@ -1,3 +1,5 @@
+const PORT = process.env.PORT || 3000;
+
 var http = require('http');
 var fs = require('fs');
 http.createServer(function (req, res) {
@@ -6,4 +8,4 @@ http.createServer(function (req, res) {
     res.write(data);
     return res.end();
   });
-}).listen(3000);
+}).listen(PORT);
